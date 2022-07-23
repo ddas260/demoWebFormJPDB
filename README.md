@@ -16,4 +16,5 @@ It helps developers in faster coding, in-turn reduces development cost.
 ## Release History:
 - 0.0.1: This is the first version of this project. The work is just started!
 
-> If you want to use or modify this project first download and edit "index.html" and use your JsonPowerDB token in 'createPUTRequest'. Good luck!!!
+> If you want to use or modify this project first download and edit "index.html" and use your JsonPowerDB token in 'createPUTRequest'.
+> Good luck!!!
